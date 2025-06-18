@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Full Stack Web Developer and entrepreneur, dedicated to building innovative and scalable digital solutions. With expertise in Next.js, React, Node.js, Express, and MongoDB, I create seamless user experiences with a strong focus on performance, security, and scalability.<br><br>As the founder of Circle, my mission is to help businesses establish a strong online presence through high-quality web development services. I am passionate about AI-driven automation, e-commerce solutions, and optimizing web performance to deliver top-tier applications.
+I'm a Full Stack Web Developer and entrepreneur, dedicated to building innovative and scalable digital solutions. With expertise in Next.js, React, Node.js, Express, and MongoDB, I create seamless user experiences with a strong focus on performance, security, and scalability.<br><br>As the founder of Codiqon, my mission is to help businesses establish a strong online presence through high-quality web development services. I am passionate about AI-driven automation, e-commerce solutions, and optimizing web performance to deliver top-tier applications.
 
 
 ## 🌐 Socials:
